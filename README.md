@@ -1,6 +1,7 @@
 # CryptoTracker!
 ![CryptoTracking](https://raw.githubusercontent.com/CharlesAE/CryptoTracking/master/kotlin_screenshot.png "Crypto Tracker")
 
+Программа для отслеживания криптовалют
 Использованные библиотеки и технологии:
 1.OkHttp для обработки запросов REST-API.
 2.GSon для легкого анализа и преобразования JSON.
