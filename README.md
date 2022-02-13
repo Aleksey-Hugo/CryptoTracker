@@ -1,2 +1,2 @@
 # CryptoTracker!
-[kotlin_screenshot.png] (https://github.com/Aleksey-Hugo/CryptoTracker/blob/main/kotlin_screenshot.png)
+![CryptoTracking](https://raw.githubusercontent.com/CharlesAE/CryptoTracking/master/kotlin_screenshot.png "Crypto Tracker")
